@@ -1,0 +1,43 @@
+html,body
+{
+	background: linear-gradient(to right, lightblue, hsl(200, 100%, 70%));
+
+	margin: 0;
+}
+
+#content
+{
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#img-container
+{
+	height: 50%;
+}
+
+img
+{
+	height: 100%;
+}
+
+input
+{
+	font-size: 3em;
+}
+
+button
+{
+	font-size: 3em;
+
+	padding: 2rem;
+	border-radius: 20px;
+}
+button:hover
+{
+	background: rgb(200, 200, 200);
+}
