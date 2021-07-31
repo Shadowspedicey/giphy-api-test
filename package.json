@@ -1,0 +1,24 @@
+{
+  "name": "giphy-api-test",
+  "version": "1.0.0",
+  "description": "A simple project to test APIs (Powered by Giphy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowspedicey/giphy-api-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadowspedicey/giphy-api-test/issues"
+  },
+  "homepage": "https://github.com/Shadowspedicey/giphy-api-test#readme",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
